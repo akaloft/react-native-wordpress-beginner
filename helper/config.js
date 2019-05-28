@@ -1,0 +1,1 @@
+export const wpURL = "http://edlog.net/wp-json/wp/v2/"
